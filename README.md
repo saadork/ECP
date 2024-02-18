@@ -1,9 +1,8 @@
-Pakistan Election Commission Web Application
+**Pakistan Election Commission Web Application**
 
-Description:
+**Description:**
 This repository houses a Laravel-based web application designed to facilitate remote voting in Pakistan, offering a comprehensive solution for the Election Commission of Pakistan. Developed by Saad, this project leverages Laravel framework for its backend operations, with SQL as the database management system. The frontend is crafted using Tailwind CSS to ensure a modern and responsive user interface.
-
-Features:
+**Features:**
 
 Remote voting capability, enabling citizens to cast their votes from the comfort of their homes.
 Utilizes Laravel's MVC architecture for efficient code organization and maintenance.
